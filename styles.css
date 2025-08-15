@@ -367,7 +367,7 @@
 
   .skills-grid img {
     width: 100px;
-    padding-right: 10px;
+    padding-right: 0px;
     transition: transform 0.3s ease;
   }
 
