@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 👩🏻‍💻 Samuel Carvalho
 
 **Desenvolvedora FullStack**
