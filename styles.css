@@ -7,7 +7,7 @@
   }
 
   body {
-    background: linear-gradient(135deg, #000000dc 0%, #6f644d 30%);
+    background: linear-gradient(135deg, #000000dc 0%, #9e8b61 30%);
     color: #fff;
     overflow-x: hidden;
   }
@@ -266,10 +266,11 @@
 
   .profile-img img {
     width: 100%;
-    max-width: 400px;
+    margin-left: 50rem;
+    max-width:max-content;
     border-radius: 30px;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-    transition: all 0.3s ease;
+    transition: all 0.7s ease;
   }
 
   .profile-img img:hover {
